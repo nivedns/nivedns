@@ -16,3 +16,5 @@ If you're interested in collaborating on data science projects or if you think I
 - [Email](mailto:nsooraj@ucsd.edu)
 
 Looking forward to connecting and building amazing things together!
+
+[![Nived's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivedns)](https://github.com/nivedns/github-readme-stats)
