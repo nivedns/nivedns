@@ -17,4 +17,4 @@ If you're interested in collaborating on data science projects or if you think I
 
 Looking forward to connecting and building amazing things together!
 
-[![Nived's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivedns)](https://github.com/nivedns/github-readme-stats)
+![Nived's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivedns&show_icons=true&theme=radical)
