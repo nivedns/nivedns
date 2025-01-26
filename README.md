@@ -12,9 +12,7 @@ I'm a Master’s student in Data Science at the University of California, San Di
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nivedns&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 #### Let's Connect! 🌐
-If you're interested in collaborating on data science projects or if you think I could be a fit for your team, don't hesitate to reach out! Here’s how you can reach me:
-- [LinkedIn](https://linkedin.com/in/nivedneethasooraj)
-- [Email](mailto:nsooraj@ucsd.edu)
+If you're interested in collaborating on data science projects or if you think I could be a fit for your team, don't hesitate to reach out!
 
 Looking forward to connecting and building amazing things together!
 
