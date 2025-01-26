@@ -16,7 +16,6 @@ If you're interested in collaborating on data science projects or if you think I
 
 Looking forward to connecting and building amazing things together!
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
