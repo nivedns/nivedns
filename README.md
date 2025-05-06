@@ -1,7 +1,7 @@
 ### Hi there, I'm Nived Neetha Sooraj! 👋
 
 #### About Me 🚀
-I'm a Master’s student in Data Science at the University of California, San Diego, with a background in Computer Science and Engineering. Passionate about leveraging data to solve real-world problems, I specialize in predictive modeling, machine learning, and data engineering. I'm committed to promoting responsible data science practices and am actively engaged in projects that impact community well-being.
+I'm a freshly minted  Master’s graduate in Data Science from the University of California, San Diego, with a background in Computer Science and Engineering. Passionate about leveraging data to solve real-world problems, I specialize in predictive modeling, machine learning, and data engineering. I'm committed to promoting responsible data science practices and am actively engaged in projects that impact community well-being.
 
 
 # 💻 Tech Stack
